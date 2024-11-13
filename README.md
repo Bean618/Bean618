@@ -1,5 +1,5 @@
-## 👋 Hello, I'm Yong-bin Cho
-- 👀 I’m interested in 
+### 👋 Hello, I'm Yong-bin Cho
+- 👨‍🎓 POSTECH MATH Undergraduate Student
 - 🌱 I’m currently learning Machine Learning and Data science.
 - 📫 How to reach me
   [![My Instagram](https://img.shields.io/badge/My%20Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/beany0618/)
@@ -9,6 +9,11 @@
   
 ![GitHub followers](https://img.shields.io/github/followers/Bean618?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Bean618/Bean618?style=social)
+
+
+### Languages and Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 <!---
 Bean618/Bean618 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
