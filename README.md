@@ -1,9 +1,9 @@
 ### 👋 Hello, I'm Yong-bin Cho
 - 🏠 Live in Pohang, South Korea
-- 👨‍🎓 Graduated Busan Jang-an high school
+- 👨‍🎓 Graduated Busan Jang-An high school
 - 📚 POSTECH MATH Undergraduate Student
-- 🏓 I like to play table tennis
-- 🌱 Currently interested in Machine Learning, Data science and Financial Engeering
+- 🏓 I like to play Table Tennis
+- 🌱 Currently interested in Machine Learning, Data Science and Financial Engeering
 
 ### Connect with me
 [![My Gmail](https://img.shields.io/badge/%20Gmail-d14836?style=flat&logo=gmail&logoColor=white)](mailto:dydqls618@gmail.com)
